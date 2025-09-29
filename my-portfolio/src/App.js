@@ -421,14 +421,6 @@ export default function Portfolio() {
     Live
   </a>
 )}
-
-                    <a
-                      href={project.details}
-                      className="flex items-center gap-2 px-4 py-2 bg-white text-black rounded-lg text-sm font-medium hover:shadow-lg hover:shadow-gray-500/50 transition-all duration-300 hover:-translate-y-0.5"
-                    >
-                      <Eye className="w-4 h-4" />
-                      More
-                    </a>
                   </div>
                 </div>
               </div>
