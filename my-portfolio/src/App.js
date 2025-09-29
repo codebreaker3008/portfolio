@@ -197,13 +197,6 @@ export default function Portfolio() {
                         <ExternalLink className="w-3 h-3" />
                         Live
                       </a>
-                      <a
-                        href={project.details}
-                        className="flex items-center gap-1 px-3 py-2 bg-white text-black rounded-lg text-xs font-medium hover:shadow-lg transition-all duration-300"
-                      >
-                        <Eye className="w-3 h-3" />
-                        More
-                      </a>
                     </div>
                   </div>
                 </div>
