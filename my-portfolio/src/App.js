@@ -287,7 +287,7 @@ export default function Portfolio() {
               <Mail className="w-6 h-6 text-white group-hover:scale-110 transition-transform" />
             </a>
             <a
-              href="/resume.pdf"
+              href="/Resume.pdf"
               download="Ayush's _Resume.pdf"
               className="flex items-center gap-2 px-4 py-2 bg-white text-black rounded-xl font-medium shadow-lg hover:shadow-gray-500/50 transition-all duration-300 hover:-translate-y-1 border border-gray-700/50"
             >
