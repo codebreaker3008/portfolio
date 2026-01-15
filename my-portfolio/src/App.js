@@ -282,7 +282,7 @@ export default function Portfolio() {
                className="group bg-gray-800/50 backdrop-blur-sm p-4 rounded-xl shadow-lg shadow-gray-500/10 hover:shadow-gray-500/30 transition-all duration-300 hover:-translate-y-1 border border-gray-700/50">
               <Github className="w-6 h-6 text-white group-hover:scale-110 transition-transform" />
             </a>
-            <a href="mailto:alex@example.com"
+            <a href="mailto:kumar.ayushx24@gmail.com"
                className="group bg-gray-800/50 backdrop-blur-sm p-4 rounded-xl shadow-lg shadow-gray-500/10 hover:shadow-gray-500/30 transition-all duration-300 hover:-translate-y-1 border border-gray-700/50">
               <Mail className="w-6 h-6 text-white group-hover:scale-110 transition-transform" />
             </a>
@@ -469,7 +469,7 @@ export default function Portfolio() {
             I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
           </p>
           <a
-            href="mailto:alex@example.com"
+            href="mailto:kumar.ayushx24@gmail.com"
             className="inline-flex items-center gap-2 px-8 py-4 bg-white text-black rounded-xl font-semibold shadow-lg shadow-gray-500/30 hover:shadow-gray-500/50 transition-all duration-300 hover:-translate-y-1"
           >
             <Mail className="w-5 h-5" />
